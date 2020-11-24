@@ -7,6 +7,7 @@ namespace Prueba1
         static void Main(string[] args)
         {
             Console.WriteLine("klk mundo!");
+
         }
     }
 }
